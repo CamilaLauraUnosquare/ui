@@ -1,0 +1,16 @@
+.generic-footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color: #F26E29;
+    padding: 1.5rem;
+    margin-top: 2rem;
+}
+
+h4{
+    padding-right: 10px;
+}
+p{
+    color:#F26E29 ;
+}
